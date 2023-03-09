@@ -32,16 +32,21 @@ const RESOURCES = {
 "assets/packages/auth_buttons/images/secondary/huawei.svg": "873b380209f2ece370272067b97cc9a9",
 "assets/packages/auth_buttons/images/secondary/microsoft.svg": "363865e791ab614f76714d47f31cfe5b",
 "assets/packages/auth_buttons/images/secondary/twitter.svg": "7e2e9892b0a7f923f55720429f42f4f3",
+"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8681736da0709d3d628e7ee8f8959301",
-"/": "8681736da0709d3d628e7ee8f8959301",
-"main.dart.js": "67affa353c51bab407d98564e0a3e4c4",
+"index.html": "416849bf0a02f6bf3ebc10bfc2427a18",
+"/": "416849bf0a02f6bf3ebc10bfc2427a18",
+"main.dart.js": "81a828b1b26a6de5f8e989903d77a3bc",
 "manifest.json": "71adc7768c478643f2b40171fc5d9393",
-"version.json": "4fd851f560312fce8d11febbd6ae8e8b"
+"version.json": "25e2f6d7a510abab03caf7e876eb59cf"
 };
 
 // The application shell files that are downloaded before a service worker can
