@@ -1,6 +1,6 @@
 {
-    "name": "ATI Buscador 0.0.4",
-    "short_name": "ATI Buscador 0.0.4",
+    "name": "cva",
+    "short_name": "cva",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
